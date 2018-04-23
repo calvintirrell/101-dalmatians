@@ -99,6 +99,7 @@ const dogs = [
     { "name": 'Dipstick', "age": 12, "spots": 30, "height": 10, "weight": 32 },
     { "name": 'Jewel', "age": 5, "spots": 72, "height": 23, "weight": 36 },
     { "name": 'Fidget', "age": 9, "spots": 29, "height": 17, "weight": 15 },
-    { "name": 'Hooper', "age": 6, "spots": 42, "height": 15, "weight": 22}];
+    { "name": 'Hooper', "age": 6, "spots": 42, "height": 15, "weight": 22}
+];
 
     export default dogs;
